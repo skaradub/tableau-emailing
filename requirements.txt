@@ -9,7 +9,7 @@ exchangelib==2.0.1
 future==0.18.1
 idna==2.8
 isodate==0.6.0
-lxml==4.4.1
+lxml==4.6.2
 ntlm-auth==1.4.0
 pycparser==2.19
 Pygments==2.4.2
